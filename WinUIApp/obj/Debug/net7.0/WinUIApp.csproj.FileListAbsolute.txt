@@ -1,0 +1,12 @@
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/bin/Debug/net7.0/WinUIApp.deps.json
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/bin/Debug/net7.0/WinUIApp.dll
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/bin/Debug/net7.0/WinUIApp.pdb
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.csproj.AssemblyReference.cache
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.AssemblyInfoInputs.cache
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.AssemblyInfo.cs
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.csproj.CoreCompileInputs.cache
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.dll
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/refint/WinUIApp.dll
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/WinUIApp.pdb
+/home/riddermark/Riddermark/ToetsApps/WinUIApp/WinUIApp/obj/Debug/net7.0/ref/WinUIApp.dll
